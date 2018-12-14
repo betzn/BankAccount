@@ -1,3 +1,14 @@
+/*
+BankAccount.java
+
+4th Ed of textbook p. 657 Ex 5 and  Ex 6 (Ticket class for campu event).
+
+*Test your classes from the client program (the one with main method). 
+
+Hint: To “force” subclasses to implement superclass methods, make these methods abstract. 
+
+By Nathan Betz
+*/
 
 public class BankAccount {
 String name;
